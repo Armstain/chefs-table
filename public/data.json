@@ -1,0 +1,107 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/cF2VsFg/Pan-Seared-Salmon-with-Lemon-Butter-Sauce-5-600x900.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Pan-Seared Salmon with Lemon Butter Sauce",
+      "short_description": "A light and flavorful dish perfect for a quick and easy weeknight meal.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste",
+        "2 tbsp butter",
+        "1 lemon, juiced",
+        "1 tbsp chopped fresh parsley"
+      ],
+      "preparing_time": 20,
+      "calories": 420 
+    },
+    {
+      "recipe_image": "https://i.ibb.co/7WwmNrv/creamy-tomato-pasta-1-720x1080.jpg",
+      "recipe_id": 2,
+      "recipe_name": "Creamy Tomato Pasta",
+      "short_description": "A comforting and delicious pasta dish made with fresh tomatoes and cream.",
+      "ingredients": [
+        "1 lb pasta",
+        "1 tbsp olive oil",
+        "1 onion, chopped",
+        "4 cloves garlic, minced",
+        "1 (28 oz) can crushed tomatoes",
+        "1 cup heavy cream",
+        "Parmesan cheese, grated (optional)"
+      ],
+      "preparing_time": 30,
+      "calories": 500
+    },
+    {
+      "recipe_image": "https://i.ibb.co/0jLj5Cc/chicken-stir-fry-733x1103.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Chicken Stir-Fry with Vegetables",
+      "short_description": "A healthy and satisfying stir-fry packed with protein and veggies.",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breasts, sliced",
+        "1 tbsp soy sauce",
+        "1 tbsp cornstarch",
+        "1 tbsp vegetable oil",
+        "1 onion, sliced",
+        "1 bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1/2 cup chicken broth"
+      ],
+      "preparing_time": 25,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co/5GLKqkP/best-chocolate-chip-cookies-recipe-1.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Classic and chewy chocolate chip cookies, perfect for any occasion.",
+      "ingredients": [
+        "1 cup (2 sticks) unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 cup packed light brown sugar",
+        "2 large eggs",
+        "2 tsp pure vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "2 cups semi-sweet chocolate chips"
+      ],
+      "preparing_time": 15,
+      "calories": 200 
+    },
+    {
+      "recipe_image": "https://i.ibb.co/j3SnZKf/merlin-143092557-a19cb00a-d1f1-4d42-83be-e4ac865d2f96-master768.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Spiced Chickpea Curry",
+      "short_description": "A flavorful and vegan curry made with chickpeas, vegetables, and spices.",
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tbsp curry powder",
+        "1 tsp ground cumin",
+        "1 (15 oz) can chickpeas, drained and rinsed",
+        "1 (14.5 oz) can diced tomatoes",
+        "1 cup vegetable broth",
+        "Coconut milk (optional)",
+        "Rice or Naan bread for serving"
+      ],
+      "preparing_time": 30,
+      "calories": 300
+    },
+    {
+      "recipe_image": "https://i.ibb.co/b3QtfTL/Fage-Feb5s.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Greek Yogurt Parfait with Berries",
+      "short_description": "A healthy and delicious breakfast parfait made with Greek yogurt, granola, and berries.",
+      "ingredients": [
+        "1 cup Greek yogurt",
+        "1/4 cup granola",
+        "1/2 cup fresh berries",
+        "Honey (optional)"
+      ],
+      "preparing_time": 5,
+      "calories": 250
+    }
+  ]
+  
